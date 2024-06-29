@@ -1,4 +1,4 @@
-# Hi there, I'm Alex Murithi 👋
+# Hi there, I'm Alex Munene 👋
 
 ![Profile Banner](https://alex-munezz.netlify.app/static/media/AM.57db07ed6eb50d325370.png)
 
