@@ -1,6 +1,6 @@
 # Hi there, I'm Alex Murithi 👋
 
-![Profile Banner](https://via.placeholder.com/1000x200.png?text=Your+Banner+Image)
+![Profile Banner](https://alex-munezz.netlify.app/static/media/AM.57db07ed6eb50d325370.png)
 
 Welcome to my GitHub profile! I'm a passionate web developer who loves crafting beautiful and functional websites. Here's a little bit about me and what I do.
 
