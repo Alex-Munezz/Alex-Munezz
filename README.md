@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Alex Murithi 👋
 
 ![Profile Banner](https://via.placeholder.com/1000x200.png?text=Your+Banner+Image)
 
@@ -6,19 +6,18 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves crafting 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m learning [New Technologies/Skills]
-- 👯 I’m looking to collaborate on [Open Source Projects/Ideas]
-- 💬 Ask me about [Topics of Expertise]
-- 📫 How to reach me: [Your Email/Contact Information]
-- ⚡ Fun fact: [Something Interesting About You]
+- 🔭 I’m currently working on ComunityCrafters
+- 👯 I’m looking to collaborate on Open Source Projects/Ideas
+- 💬 Ask me about Coding, Programming, Web app Development
+- 📫 How to reach me: munezz456@gmail.com
+- ⚡ Fun fact: Despite debugging being stressful and tiring, i love it because it sharpens my skills.
 
 ## 🛠️ Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React, Angular
-- **Backend:** Node.js, Express, Django, Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Webpack, Babel
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Python, Flask
+- **Databases:** MySQL, PostgreSQL, SQL
+- **Tools:** Git, Docker, Babel
 - **Other:** SEO, Responsive Design, REST APIs
 
 ## 📈 GitHub Stats
