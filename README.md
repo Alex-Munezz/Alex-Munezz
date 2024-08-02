@@ -6,7 +6,11 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves crafting 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on ComunityCrafters
+- 🔭 I’m currently working on :
+     ComunityCrafters - This is an online marketplace for service providers ie, plumbers, electricians etc.
+     The ArtVista - Me and a team of three are working on The ArtVista, a place where artists can sell their artworks, galleries and museums can post their 
+                    upcoming events, art enthusiasts and collectors can buy artworks and where artists from different countries and backgrounds can meet and 
+                    inspire one another.
 - 👯 I’m looking to collaborate on Open Source Projects/Ideas
 - 💬 Ask me about Coding, Programming, Web app Development
 - 📫 How to reach me: munezz456@gmail.com
