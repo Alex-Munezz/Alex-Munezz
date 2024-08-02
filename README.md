@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves crafting 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on :<br />
-    1. ComunityCrafters - This is an online marketplace for service providers ie, plumbers, electricians etc.<br />
+    1. ComunityCrafters - This is an online marketplace that connects service providers ie, plumbers, electricians and users.<br />
     2. The ArtVista - Me and a team of three are working on The ArtVista, a place where artists can sell their artworks, galleries and museums can post their 
                       upcoming events, art enthusiasts and collectors can buy artworks and where artists from different countries and backgrounds can meet and 
-                      inspire one another.
+                      inspire one another. Feel free to check the app although it is still under development : theartvista.com
 - 👯 I’m looking to collaborate on Open Source Projects/Ideas
 - 💬 Ask me about Coding, Programming, Web app Development
 - 📫 How to reach me: munezz456@gmail.com or alex-murithi.netlify.app
@@ -33,6 +33,6 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves crafting 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-munene-289729260/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alex-munezz.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alex-murithi.netlify.app)
 
 Thanks for stopping by! Feel free to reach out if you'd like to collaborate on something amazing.
