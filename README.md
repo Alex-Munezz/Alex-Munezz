@@ -1,6 +1,6 @@
 # Hi there, I'm Alex Munene 👋
 
-![Profile Banner](https://alex-munezz.netlify.app/static/media/AM.57db07ed6eb50d325370.png)
+![Profile Banner](https://alex-murithi.netlify.app/static/media/AM.57db07ed6eb50d325370.png)
 
 Welcome to my GitHub profile! I'm a passionate web developer who loves crafting beautiful and functional websites. Here's a little bit about me and what I do.
 
