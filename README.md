@@ -7,14 +7,14 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves crafting 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on :<br />
-     ComunityCrafters - This is an online marketplace for service providers ie, plumbers, electricians etc.<br />
-     The ArtVista - Me and a team of three are working on The ArtVista, a place where artists can sell their artworks, galleries and museums can post their 
-                    upcoming events, art enthusiasts and collectors can buy artworks and where artists from different countries and backgrounds can meet and 
-                    inspire one another.
+    1. ComunityCrafters - This is an online marketplace for service providers ie, plumbers, electricians etc.<br />
+    2. The ArtVista - Me and a team of three are working on The ArtVista, a place where artists can sell their artworks, galleries and museums can post their 
+                      upcoming events, art enthusiasts and collectors can buy artworks and where artists from different countries and backgrounds can meet and 
+                      inspire one another.
 - 👯 I’m looking to collaborate on Open Source Projects/Ideas
 - 💬 Ask me about Coding, Programming, Web app Development
-- 📫 How to reach me: munezz456@gmail.com
-- ⚡ Fun fact: Despite debugging being stressful and tiring, i love it because it sharpens my skills.
+- 📫 How to reach me: munezz456@gmail.com or alex-murithi.netlify.app
+- ⚡ Fun fact: Despite debugging being stressful and tiring, i love it because it sharpens my coding and problem solving skills.
 
 ## 🛠️ Skills
 
