@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves crafting 
 
 ## 🛠️ Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Python, Flask
+- **Frontend:** HTML, CSS, JavaScript, React, TypeScript
+- **Backend:** Python, Flask, Django
 - **Databases:** MySQL, PostgreSQL, SQL
 - **Tools:** Git, Docker, Babel
 - **Other:** SEO, Responsive Design, REST APIs
